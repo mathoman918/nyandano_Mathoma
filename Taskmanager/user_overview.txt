@@ -1,0 +1,45 @@
+Total users: 6
+Total tasks: 8
+
+User: admin
+  Total tasks: 2
+  % of total tasks: 25.00%
+  % completed: 50.00%
+  % incomplete: 50.00%
+  % overdue: 50.00%
+
+User: nmathoma
+  Total tasks: 2
+  % of total tasks: 25.00%
+  % completed: 50.00%
+  % incomplete: 50.00%
+  % overdue: 0.00%
+
+User: rhphungo
+  Total tasks: 2
+  % of total tasks: 25.00%
+  % completed: 0.00%
+  % incomplete: 100.00%
+  % overdue: 0.00%
+
+User: pamanenzhe
+  Total tasks: 1
+  % of total tasks: 12.50%
+  % completed: 0.00%
+  % incomplete: 100.00%
+  % overdue: 0.00%
+
+User: mcmunyai
+  Total tasks: 1
+  % of total tasks: 12.50%
+  % completed: 0.00%
+  % incomplete: 100.00%
+  % overdue: 0.00%
+
+User: skhobi
+  Total tasks: 0
+  % of total tasks: 0.00%
+  % completed: 0.00%
+  % incomplete: 0.00%
+  % overdue: 0.00%
+
